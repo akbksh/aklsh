@@ -707,7 +707,7 @@ color: #fff;
 }
 
 .services .icon-box span{
-  color: #16df7e;
+  color: #227865;
 }
 
 .services .icon i {
@@ -746,9 +746,9 @@ color: #fff;
   padding: 8px 30px 10px 30px;
   border-radius: 25px;
   transition: 0.5s;
-  color: #00bf63;
+  color: #6a11cb;
   background: #fff;
-    box-shadow: 0 8px 28px rgba(22, 223, 126, 0.45);
+    box-shadow: 0 8px 8px rgba(22, 223, 126, 0.45);
 }
 
 #services .btn-get-starte2d:hover {
